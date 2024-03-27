@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/R-FF457E?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-FF5353?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-FF8F4A?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pyspark-E34F26?style=for-the-badge&logo=pyspark&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-FFDB45?style=for-the-badge&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pyspark-4694FF?style=for-the-badge&logo=pyspark&logoColor=white" />
 </p>
 
 ### Tools 
