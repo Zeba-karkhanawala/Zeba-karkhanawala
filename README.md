@@ -79,7 +79,19 @@
   <img src="https://img.shields.io/badge/MongoDB-30E584?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-## Certifications 
+## Certifications
+
+| Certification Title                                         | Issuing Organization | Platform      |
+|-------------------------------------------------------------|----------------------|---------------|
+| Everybody's Introduction to Snowflake                       | LinkedIn Learning    | LinkedIn      |
+| Data Visualization: Storytelling                            | LinkedIn Learning    | LinkedIn      |
+| The Complete SQL Bootcamp: Go From Zero to Hero             | Udemy                | Udemy         |
+| Tableau 2022 A-Z: Hands-On Tableau Training for Data Science| Udemy                | Udemy         |
+| Learning Python for Data Analysis and Visualization         | Udemy                | Udemy         |
+| The Complete Digital Marketing Course - 12 Courses in 1     | Udemy                | Udemy         |
+| MATLAB Onramp                                               | MathWorks            | MathWorks     |
+| MATLAB Fundamentals                                         | MathWorks            | MathWorks     |
+
 
 ## Hobbies
 - Reading books
