@@ -17,6 +17,12 @@
 - Utilize SQL & Python for efficient data extraction from Snowflake’s database, aiding departmental research.
 - Refined extraction queries to improve efficiency and reduce data retrieval times for research purposes.
 
+### Indian Institute of Technology, School of Management and Entrepreneurship
+#### Teaching Assistant, Operations Management
+*Jodhpur, Rajasthan, India | January 2023 – May 2023*
+- Contributed to grading assignments and exams, ensuring fair and consistent evaluation of students' understanding of operations management principles.
+- Offered targeted support to students by clarifying course material complexities and resolving doubts, enhancing their grasp of operations management concepts.
+
 ### Oxytocin
 #### Product Management Intern (Google Cloud, Microsoft Office, Research)
 *Remote | March 2022 – April 2022*
@@ -24,9 +30,16 @@
 - Compiled academic articles, case studies, and reports, utilizing strong research and analytical skills to understand impacts on project outcomes.
 
 
-
-
 ## Education
+### University of Maryland, Robert H. Smith School of Business
+#### Masters of Science in Information Systems, GPA: 4.0/4.0
+*College Park, MD, USA | Expected December 2024*
+- Participated in the Terrapin Leadership Institute's LEAD Program, focusing on advanced leadership skills and project management.
+
+### Indian Institute of Technology Jodhpur
+#### Bachelor of Technology in Electrical Engineering, Minors in Management, CGPA: 8.1/10.0
+*Jodhpur, Rajasthan, India | May 2023*
+
 
 ## Skills
 ### Programming Languages
