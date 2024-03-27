@@ -15,18 +15,12 @@
   <img src="https://img.shields.io/badge/JSON-FF8F4A?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/C-FFDB45?style=for-the-badge&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/Pyspark-4694FF?style=for-the-badge&logo=pyspark&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Numpy-339933?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ### Tools 
@@ -38,6 +32,10 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-F39F5A?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server_Management_Studio-E8BCB9?style=for-the-badge&logo=sql%20server%20management%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-E34F26?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-E34F26?style=for-the-badge&logo=hadoop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-1572B6?style=for-the-badge&logo=hive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pig-323330?style=for-the-badge&logo=pig&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Neo4j-007ACC?style=for-the-badge&logo=neo4j&logoColor=white" />
 </p>
 
 ### Databases
