@@ -4,6 +4,28 @@
 
 ## Work Experience 
 
+### Robert H. Smith School of Business
+#### Teaching Assistant, Essential Data Training using Python
+*College Park, MD, USA | January 2024 – Present*
+- Assist in grading, conducting office hours, and supporting students in understanding course material.
+- Provide hands-on help during class hours to solve doubts and facilitate learning in Python for data analysis.
+
+### R.H. Smith School of Business, Management and Organizations Department
+#### Research Assistant (Snowflake, Python, SQL, SnowSQL, Data Extraction, Data Cleaning)
+*College Park, MD, USA | October 2023 – Present*
+- Collaborate with faculty and research assistants, offering technical support and leveraging SQL to optimize data acquisition processes from Snowflake.
+- Utilize SQL & Python for efficient data extraction from Snowflake’s database, aiding departmental research.
+- Refined extraction queries to improve efficiency and reduce data retrieval times for research purposes.
+
+### Oxytocin
+#### Product Management Intern (Google Cloud, Microsoft Office, Research)
+*Remote | March 2022 – April 2022*
+- Conducted research on 7 cognitive biases affecting project management, decision-making, and risk assessment.
+- Compiled academic articles, case studies, and reports, utilizing strong research and analytical skills to understand impacts on project outcomes.
+
+
+
+
 ## Education
 
 ## Skills
@@ -17,7 +39,7 @@
   <img src="https://img.shields.io/badge/Pyspark-4694FF?style=for-the-badge&logo=pyspark&logoColor=white" />
 </p>
 
-### Frameworks & Libraries
+### Libraries
 <p>
   <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Numpy-339933?style=for-the-badge&logo=numpy&logoColor=white" />
