@@ -10,7 +10,7 @@
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-FF3473?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-FF457E?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-30E584?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-FF5353?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-FF8F4A?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/C-FFDB45?style=for-the-badge&logo=C&logoColor=white" />
