@@ -29,6 +29,13 @@
 - Conducted research on 7 cognitive biases affecting project management, decision-making, and risk assessment.
 - Compiled academic articles, case studies, and reports, utilizing strong research and analytical skills to understand impacts on project outcomes.
 
+### Arowa Webtech 
+#### Content Writer and Social Media Manager
+*Ahmedabad, Gujarat, India | February 2021 – July 2021*
+- Scheduled and managed social media content calendars, created SEO-optimized blog content, and optimized posting times for maximum reach and engagement.
+- Collaborated with the design team to create visually appealing and engaging social media posts, graphics, and videos to promote brand awareness and drive user engagement.
+- Enhanced social media engagement metrics, resulting in 30% more likes, and a 40% increase in the follower counts across all the clients in 5 months.
+
 
 ## Education
 ### University of Maryland, Robert H. Smith School of Business
