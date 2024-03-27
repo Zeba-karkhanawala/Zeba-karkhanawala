@@ -19,19 +19,19 @@
 
 ### Tools 
 <p>
-  <img src="https://img.shields.io/badge/R_Studio-E34F26?style=for-the-badge&logo=r%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E34F26?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-E34F26?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-E34F26?style=for-the-badge&logo=jupyter%20notebook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server_Management_Studio-E34F26?style=for-the-badge&logo=sql%20server%20management%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/R_Studio-1D1A39?style=for-the-badge&logo=r%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-451952?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-662549?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-AE445A?style=for-the-badge&logo=jupyter%20notebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-F39F5A?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server_Management_Studio-E8BCB9?style=for-the-badge&logo=sql%20server%20management%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-E34F26?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4694FF?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-30E584?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ## Certifications 
