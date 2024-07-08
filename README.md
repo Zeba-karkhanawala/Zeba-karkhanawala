@@ -1,6 +1,17 @@
 ### Hello 👋
 
 ## About Me
+Passionate about building advanced RAG-LLM models and leveraging AI and ML to transform data into actionable insights!
+
+My journey from IIT to UMD has been fueled by a deep passion for data and its transformative power in driving strategic decision-making. I enjoy leveraging various tools such as Python, SQL, and Tableau to explore data, and I am particularly fascinated by large language models and advanced Retrieval-Augmented Generation (RAG) models.
+
+I have a strong interest in studying statistics and understanding the intricacies of machine learning models. My technical skills extend to languages such as Python, SQL, R, and data visualization tools like Tableau. My commitment to continuous learning ensures that I stay informed about the latest tools and methodologies in AI, ML and everything data. I recently had the honor of being part of the team that won third place at the Smith Analytics Consortium's 5th Annual Datathon in 2024.
+
+In addition to my technical expertise, I possess strong communication and storytelling abilities. I have demonstrated leadership skills, effectively managed teams, and maintained attention to detail in various positions of responsibility. 
+
+I am also an avid reader and writer, running my own blog, 'Life of Zeba'. Outside of my professional interests, I enjoy swimming and dancing. 
+
+I am always eager to connect with fellow data analysis enthusiasts and explore new opportunities in this dynamic field.
 
 ## Work Experience 
 
