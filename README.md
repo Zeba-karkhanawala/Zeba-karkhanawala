@@ -15,9 +15,16 @@ I am always eager to connect with fellow data analysis enthusiasts and explore n
 
 ## Work Experience 
 
+### Travana
+#### AI Engineer Intern
+*Remote | May 2024 - Present*
+- Developed and automated Retriever Augmented Generation (RAG) models using LangChain to create advanced Knowledge Graphs, enhancing information retrieval and query transformation methods such as RAG Fusion and Multi-query techniques.
+- Developed a data pipeline that executed a grid-based search algorithm for Google API scraping. 
+- Created programs for web and YouTube scraping to collect and preprocess large datasets, significantly enhancing data quality and model performance for the Retrieval-Augmented Generation (RAG) model and optimized all the code for efficiency using Asynchronous Programming.
+
 ### Robert H. Smith School of Business
 #### Teaching Assistant, Essential Data Training using Python
-*College Park, MD, USA | January 2024 – Present*
+*College Park, MD, USA | January 2024 – May 2024*
 - Assist in grading, conducting office hours, and supporting students in understanding course material.
 - Provide hands-on help during class hours to solve doubts and facilitate learning in Python for data analysis.
 
