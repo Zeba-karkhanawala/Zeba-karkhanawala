@@ -57,7 +57,7 @@ I am always eager to connect with fellow data analysis enthusiasts and explore n
 
 ## Education
 ### University of Maryland, Robert H. Smith School of Business
-#### Masters of Science in Information Systems, GPA: 4.0/4.0
+#### Masters of Science in Information Systems, GPA: 3.97/4.0
 *College Park, MD, USA | Expected December 2024*
 - Participated in the Terrapin Leadership Institute's LEAD Program, focusing on advanced leadership skills and project management.
 
